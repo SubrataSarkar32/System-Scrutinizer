@@ -12,7 +12,7 @@ import sys
 import os
 import re
 
-folder_hash = "5324fa1f7b59f244f132151917ef07722c120003cb198398c144ff3a0975bc1e"
+folder_hash = "fad7d399979e5401558f91cf84c0351637a0d4a788d206dc115c103241385134"
 
 show_verbose = False
 scanStart_T = None
@@ -337,9 +337,9 @@ if __name__ == "__main__" :
             </section>
             <div class="blurb" style="padding-top:0"></div>
                         <div id="pageFooter" role="region">
-                        Copyright under <a style="text-decoration: none;" href="https://github.com/Hrishikesh7665/System-Scrutinizer/edit/main/LICENSE", target="_blank">MIT Licenses</a><br>
+                        Copyright under <a style="text-decoration: none;" href="test.com", target="_blank">MIT Licenses</a><br>
                         Made by Hrishikesh (<a style="text-decoration: none;" href="https://www.github.com/Hrishikesh7665", target="_blank">Hrishikesh7665</a>) & Shabdik (<a style="text-decoration: none;" href="https://www.github.com/ninja-hattori", target="_blank">ninja-hattori</a>)
-                        <button onclick="scrollToTop()" id="scrollToTopBtn" title="Go to top">ADD L</button>
+                        <button onclick="scrollToTop()" id="scrollToTopBtn" title="Go to top"><img src="./assets/arrow.png" height="18px" width="18px"/></button>
                         </div>
                     </div>
                 </body>
