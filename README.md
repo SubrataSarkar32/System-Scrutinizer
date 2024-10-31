@@ -4,6 +4,7 @@
   <picture>
     <img width="420" height="420" src="../resources/logo.png" alt="System Scrutinizer logo" unselectable="on">
   </picture>
+  <div align="center">Logo created using <a href="https://www.bing.com/images/">bing ai</a>.</div>
 </p>
 
 **System Scrutinizer** is a Python-based tool designed to analyze and report on the security posture of Windows 10 and 11 systems. This tool leverages PowerShell commands to execute various system checks and generate a comprehensive HTML report, ensuring compliance with the CIS Windows Benchmark.
@@ -33,11 +34,10 @@ Alternatively, You can Download and Extract the Zip
 `Direct Download Zip` [Click Here](https://github.com/Hrishikesh7665/System-Scrutinizer/archive/refs/heads/main.zip)
 
 ## Usage
-1. To run the script, please execute the following command in your terminal or command prompt with administrator privileges.):
-```bash
-cd System-Scrutinizer
-python audit.py
-```
+  ```bash
+  cd System-Scrutinizer
+  python audit.py
+  ```
 
 ## Output
 The generated HTML report will include:
@@ -47,5 +47,15 @@ The generated HTML report will include:
 - Software Inventory
 - Virus Protection Status
 - Hardware Security Features
+- USB history
 - More
-Report Sample [Click Here](#)
+
+Report Sample [Click Here](https://github.com/Hrishikesh7665/System-Scrutinizer/blob/resources/DESKTOP_T40RSIR_final_report_20-26-49-31-10-2024.html)
+
+Report Preview:
+- Sample 1
+  ![System-Scrutinizer_Report_Preview-1](../resources/Screenshots/System-Scrutinizer_Report_Preview-1.png)
+- Sample 2
+  ![System-Scrutinizer_Report_Preview-2](../resources/Screenshots/System-Scrutinizer_Report_Preview-2.png)
+- Sample 3
+  ![System-Scrutinizer_Report_Preview-3](../resources/Screenshots/System-Scrutinizer_Report_Preview-3.png)
