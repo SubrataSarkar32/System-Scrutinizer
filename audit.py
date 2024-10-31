@@ -337,7 +337,7 @@ if __name__ == "__main__" :
             </section>
             <div class="blurb" style="padding-top:0"></div>
                         <div id="pageFooter" role="region">
-                        Copyright under <a style="text-decoration: none;" href="test.com", target="_blank">MIT Licenses</a><br>
+                        Copyright under <a style="text-decoration: none;" href="https://github.com/Hrishikesh7665/System-Scrutinizer/edit/main/LICENSE", target="_blank">MIT Licenses</a><br>
                         Made by Hrishikesh (<a style="text-decoration: none;" href="https://www.github.com/Hrishikesh7665", target="_blank">Hrishikesh7665</a>) & Shabdik (<a style="text-decoration: none;" href="https://www.github.com/ninja-hattori", target="_blank">ninja-hattori</a>)
                         <button onclick="scrollToTop()" id="scrollToTopBtn" title="Go to top">ADD L</button>
                         </div>
