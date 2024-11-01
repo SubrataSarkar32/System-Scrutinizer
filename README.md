@@ -49,7 +49,7 @@ The generated HTML report will include:
 - USB history
 - More
 
-Report Sample [Click Here](https://github.com/Hrishikesh7665/System-Scrutinizer/blob/resources/DESKTOP_T40RSIR_final_report_20-26-49-31-10-2024.html)
+Report Sample [Click Here](https://raw.githack.com/Hrishikesh7665/System-Scrutinizer/refs/heads/resources/DESKTOP_T40RSIR_final_report_20-26-49-31-10-2024.html)
 
 Report Preview:
 - Sample 1
