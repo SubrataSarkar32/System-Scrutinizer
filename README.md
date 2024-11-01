@@ -11,7 +11,6 @@
 
 ## Features
 
-- **CIS Benchmark Compliance**: Analyzes the system against CIS Windows Benchmark standards.
 - **Detailed Reporting**: Generates an HTML report including:
   - Operating System details
   - Hardware security status (e.g., TPM and Secure Boot)
